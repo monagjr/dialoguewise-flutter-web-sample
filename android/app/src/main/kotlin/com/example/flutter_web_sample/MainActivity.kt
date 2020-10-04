@@ -1,4 +1,4 @@
-package com.example.flutter_web_sample
+package com.example.dialoguewise_flutter_web_sample
 
 import io.flutter.embedding.android.FlutterActivity
 
